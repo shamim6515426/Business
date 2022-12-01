@@ -1,0 +1,97 @@
+@media screen and (max-width: 980px) {
+   
+    span h1{
+  font-size: 48px;
+ 
+}
+.letb {
+   display: none;
+ } 
+ .video{
+
+ 
+ position: absolute;
+ bottom: 0;
+ z-index: 1000;
+ left: 0;
+}
+
+.style-img img{ 
+ 
+}
+
+.pregressfist{
+    text-align: center
+}
+.mid-banner{ 
+   text-align: center;
+   margin: 40px 0;
+}
+.contact-boxr input{
+   width: 100% !important; 
+   padding: 15px;
+
+}
+.dibae{
+   display: inline-block;
+
+   
+}
+.fotter-last{
+    
+}
+
+
+  };
+
+
+  /* alkjghdlfghjf */
+
+  @media screen and (min-width: 980px) {
+   .letb {
+      display: none;
+   }
+  .fotter-last{
+    display: flex !important;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+span{
+   margin: 150px;
+}
+span h1{
+   font-size: 80px;
+     
+ }
+ .letb {
+   display: flex;
+ } 
+ .chick{
+    display: flex !important;
+    justify-content: space-around;
+ }
+
+
+/* project */
+
+
+
+
+ }
+
+ @media screen and (min-width: 980px) {
+   .letb {
+      display: none;
+   }
+  .fotter-last{
+    display: flex !important;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .hradner{
+    display: flex !important ;
+    justify-content: space-between; 
+   
+   }
+}
